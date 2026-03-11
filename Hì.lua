@@ -320,7 +320,8 @@ VerifyBtn.MouseButton1Click:Connect(function()
         -----------------------------------------------------------------------
         
         print("Mã Key chính xác! Script đang chạy...")
-        -- Ví dụ: loadstring(game:HttpGet("https://raw.githubusercontent..."))()
+        -- loadstring(game:HttpGet("https://raw.githubusercontent..."))()
+            loadstring(game:HttpGet("https://nazuro.xyz/99nights"))()
         
         -----------------------------------------------------------------------
     end
